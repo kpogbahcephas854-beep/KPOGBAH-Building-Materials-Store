@@ -60,12 +60,9 @@ No-Code E-Commerce Application Design Project
 ---
 
 ## Screenshots
-
-
-<img width="512" height="615" alt="Screenshot 2026-06-26 135435" src="https://github.com/user-attachments/assets/6b578378-795e-4c81-80ad-fec04f5b2578" />
-<img width="1363" height="620" alt="Screenshot 2026-06-26 135412" src="https://github.com/user-attachments/assets/719fb559-7636-4c55-a4ec-74b8d148cc9d" />
 <img width="1360" height="619" alt="Screenshot 2026-06-26 135351" src="https://github.com/user-attachments/assets/70cac761-f941-4cdb-aa61-78704c28b3d0" />
-
+<img width="1363" height="620" alt="Screenshot 2026-06-26 135412" src="https://github.com/user-attachments/assets/719fb559-7636-4c55-a4ec-74b8d148cc9d" />
+<img width="512" height="615" alt="Screenshot 2026-06-26 135435" src="https://github.com/user-attachments/assets/6b578378-795e-4c81-80ad-fec04f5b2578" />
 ## Challenges
 - Setting up footer menus with correct links required creating separate navigation menus for FAQs, Help Center, and Shopping Guide
 - Removing "Sold Out" labels required disabling inventory tracking on all products
